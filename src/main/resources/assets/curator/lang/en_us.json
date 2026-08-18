@@ -1,0 +1,10 @@
+{
+  "itemGroup.curator": "The Curator",
+  "curator.configuration.title": "The Curator Configs",
+  "curator.configuration.section.curator.common.toml": "The Curator Configs",
+  "curator.configuration.section.curator.common.toml.title": "The Curator Configs",
+  "curator.configuration.sentimentalityMulti": "Sentimentality Score Multiplier",
+  "curator.tooltip.sentimentvalue": "Current sentimentality: %1$s",
+  "block.curator.display_pedestal": "Display Pedestal"
+  
+}

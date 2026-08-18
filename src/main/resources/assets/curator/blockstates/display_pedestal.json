@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "curator:block/display_pedestal" }
+  }
+}
